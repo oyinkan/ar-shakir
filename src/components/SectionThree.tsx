@@ -17,7 +17,7 @@ export default function SectionThree() {
               <PrimaryButton text="Get Started" href="/" style={{ marginTop: '1rem' }} />
             </Col>
             <Col md={6}>
-              <div data-aos="fade-left">
+              <div data-aos="fade-bottom">
                 <img src="/images/card.svg" className="img-fluid" alt="an illustration" />
               </div>
             </Col>

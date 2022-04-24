@@ -269,6 +269,7 @@ a {
   .btn.btn-primary {
     font-size: 1.28rem;
     line-height: 2.4rem;
+    padding: 1rem 2rem;
   }
   .navbar-light .navbar-nav .nav-link {
     padding-left: 0;
@@ -292,6 +293,9 @@ a {
     font-size: 1.36rem;
     line-height: 2.4rem;
   }
+  .hero-section .how-it-works {
+    margin-left: -5.5rem;
+  }
   .image-wrapper {
     padding-top: 6rem;
   }
@@ -306,6 +310,10 @@ a {
   }
   .flies-image {
     top: -6rem;
+  }
+  .shared-section,
+  .section-two .shared-section {
+    padding-right: 0;
   }
   .section-two h6 {
     font-size: 1.8rem;
